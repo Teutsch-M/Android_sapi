@@ -1,6 +1,6 @@
 package quiz
 
-data class Question(val text: String, val answers: List<String>){
+data class Question(val text: String , val answers: List<String>){
 
 
 
